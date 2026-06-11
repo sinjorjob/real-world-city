@@ -1,5 +1,9 @@
 # Real World City — 365-Day Living City (v3.1)
 
+**🌐 公開URL: https://sinjorjob.github.io/real-world-city/**
+
+---
+
 **あなたの仕事の1年が、成長し続けるリアルな都市になる。**
 
 状況・悩みを入力すると、疑似AIエンジンが解析してあなた専用の都市と**1年分の動的シナリオ**を生成。
@@ -14,7 +18,7 @@
 ## 使い方
 
 ```
-tools/real-world-city/index.html をブラウザで開くだけ（ビルド不要・ネット不要）
+https://sinjorjob.github.io/real-world-city/ をブラウザで開くだけ（ビルド不要・ネット不要）
 ※ ?demo=1 で自動デモ（サンプル入力→自動意思決定）
 ```
 
@@ -81,7 +85,7 @@ tools/real-world-city/index.html をブラウザで開くだけ（ビルド不�
 ## ファイル構成
 
 ```
-tools/real-world-city/
+real-world-city/
 ├── index.html   # アプリ本体（1ファイル完結）
 └── README.md    # このファイル
 ```
